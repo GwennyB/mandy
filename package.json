@@ -1,0 +1,15 @@
+{
+  "name": "mandy",
+  "version": "1.0.0",
+  "description": "This is gonna be some silly nonsense to teach Mandy how to build web servers like a boss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "I am the Gwen.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
